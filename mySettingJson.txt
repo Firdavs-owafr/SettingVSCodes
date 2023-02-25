@@ -1,0 +1,47 @@
+{
+  "workbench.colorTheme": "Dracula Soft",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.formatOnSave": true,
+  "codesnap.shutterAction": "copy",
+  "liveSassCompile.settings.forceBaseDirectory": "",
+  "liveSassCompile.settings.autoprefix": [],
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "~/../css/"
+    }
+  ],
+  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.editorAssociations": {
+    "*.zip": "default",
+    "*.rar": "default"
+  },
+  "liveServer.settings.CustomBrowser": "chrome",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.guides.bracketPairs": "active",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.accessibilitySupport": "off",
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false,
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "JetBrains Mono",
+  "template-string-converter.quoteType": "double",
+  "template-string-converter.addBracketsToProps": true,
+  "template-string-converter.autoRemoveTemplateString": true,
+  "template-string-converter.convertOutermostQuotes": true,
+  "window.zoomLevel": -1,
+  // cursor
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    
+  },
+}
